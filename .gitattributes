@@ -1,2 +1,3 @@
 /Users/seyoungpark/Desktop/k_novel_dashboard/data/book_korean.csv filter=lfs diff=lfs merge=lfs -text
 /Users/seyoungpark/Desktop/k_novel_dashboard/data/cluster_Similarity.csv filter=lfs diff=lfs merge=lfs -text
+/Users/seyoungpark/Desktop/k_novel_dashboard/data filter=lfs diff=lfs merge=lfs -text
